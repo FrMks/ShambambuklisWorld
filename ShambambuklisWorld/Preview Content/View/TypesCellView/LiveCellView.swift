@@ -38,7 +38,6 @@ struct LiveCellView: View {
     }
 }
 
-
 #Preview {
     LiveCellView()
 }
